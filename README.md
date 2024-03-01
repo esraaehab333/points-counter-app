@@ -1,6 +1,7 @@
 # points_counter
 
 A new Flutter project.
+[pointsCounter.webm](https://github.com/esraaehab333/points-counter-app/assets/113993788/91da97be-3ec1-4dbf-b905-c67110af805e)
 
 ## Getting Started
 
